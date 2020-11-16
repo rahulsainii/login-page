@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: url('work5.jpeg');
+    font-family:sans-serif;
+    background-size: cover;
+    position: relative;
+}
+.login-box{
+    width:280px;
+    position:absolute;
+    top:35%;
+    left:40%;
+    color: white;
+}
+.login-box h1{
+    font-size:40px;
+    border-bottom: 4px solid rgb(156, 33, 101);
+}
+.text-box{
+    width:100%;
+    font-size:20px;
+    padding: 8px 0;
+    margin:6px 0;
+    border-bottom: 2px solid rgb(156, 33, 101);
+}
+/*.test{
+    width:280px;
+    height:30px;
+    border-radius: 10px;
+}*/
+.test{
+    border:none;
+    outline:none;
+    background:none;
+    color:white;
+    font-size: 18px;
+}
+.button{
+    font-size: 16px;
+    border:3px solid rgb(230, 221, 222);
+    padding:10px 22px;
+    border-radius: 15px;
+    background-color:rgb(177, 48, 91);
+    color:white;
+    cursor:pointer;
+    width:100%;
+}
